@@ -27,6 +27,6 @@ class UsuarioDAO():
 
     def deletar(self):
         pass
-        pass
+    
     def listar(self):
         pass
